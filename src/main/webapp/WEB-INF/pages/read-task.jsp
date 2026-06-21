@@ -19,7 +19,7 @@
         %>
         <div class="task-info">
             <p><strong>ID:</strong> <%= task.getId() %></p>
-            <p><strong>Title:</strong> Task #<%= task.getTitle() %></p>
+            <p><strong>Title:</strong> <%= task.getTitle() %></p>
             <p><strong>Priority:</strong> <%= task.getPriority() %></p>
         </div>
         <%

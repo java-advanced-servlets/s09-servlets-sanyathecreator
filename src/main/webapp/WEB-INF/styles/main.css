@@ -122,6 +122,14 @@ a:hover {
     background-color: #c0392b;
 }
 
+.btn-warning {
+    background-color: #f39c12;
+}
+
+.btn-warning:hover {
+    background-color: #d68910;
+}
+
 .btn-success {
     background-color: #2ecc71;
 }
